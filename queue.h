@@ -14,5 +14,4 @@ public:
     int dequeue();
     bool isEmpty();
 };
-
 #endif

@@ -16,5 +16,4 @@ public:
     int peek();
     bool isEmpty();
 };
-
 #endif
